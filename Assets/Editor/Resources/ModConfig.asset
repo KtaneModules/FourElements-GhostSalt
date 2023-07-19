@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: GSFourElements
+  title: Four Elements
+  author: GhostSalt
+  description: "This seems pretty dangerous \u2014 the elements are all unstable.\n\nSubmitted
+    for the KTaNE Modding Jam #5, prompt: 3 Sentence Manual.\n\nTwitch Plays supported.
+    Lmao."
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 2ee2f90414c717445a3409e7606c2232, type: 3}

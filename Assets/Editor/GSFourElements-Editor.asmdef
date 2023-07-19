@@ -1,0 +1,10 @@
+{
+  "name": "GSFourElements-Editor",
+  "references": [
+    "GSFourElements"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
